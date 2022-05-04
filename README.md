@@ -44,7 +44,15 @@ Este repositório foi criado para colocar o meu projeto realizado na Next Level 
   <img src="https://i.imgur.com/kL0nUCB.png">
 </p>
 
-<h3 align="center">🚀 Stage 2/5 ⌛</h3>
+<h2 align="center">🚀 Stage 2/5 ✔️</h2>
+<p align="center">Conteúdo do botão de feedback</p>
+<p align="center">Funcionalidade de Screenshot da página</p>
+<p align="center">
+  <img src="https://i.imgur.com/vM24gwF.png">
+  <img src="https://i.imgur.com/LClXUDV.png">
+  <img src="https://i.imgur.com/3hAyjhP.png">
+  <img src="https://i.imgur.com/PZQW1lv.png">
+</p>
 <h3 align="center">🚀 Stage 3/5 ⌛</h3>
 <h3 align="center">🚀 Stage 4/5 ⌛</h3>
 <h3 align="center">🚀 Stage 5/5 ⌛</h3>
