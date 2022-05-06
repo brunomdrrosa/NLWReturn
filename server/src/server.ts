@@ -1,23 +1,12 @@
-import { prisma } from './prisma';
-import nodemailer from 'nodemailer';
 import express from 'express';
+import { routes } from './routes';
+import cors from 'cors';
 
 const app = express();
 
+app.use(cors());
 app.use(express.json());
-
-app.post('/feedbacks', async (req, res) => {
-  const { type, comment, screenshot } = req.body;
-
-  const feedback = await prisma.feedback.create({
-    data: {
-      type,
-      comment,
-      screenshot,
-    },
-  });
-  return res.status(201).json({ data: feedback });
-});
+app.use(routes);
 
 app.listen(3333, () => {
   console.log('Server started on port 3333');

@@ -23,13 +23,11 @@ Este repositório foi criado para colocar o meu projeto realizado na Next Level 
 ⚙️ Tecnologias utilizadas
 
 <p>&nbsp;</p>
+  <img src="https://img.shields.io/badge/Node.js-323330?style=for-the-badge&logo=nodedotjs&logoColor=339933"/>
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/vite-646CFF.svg?style=for-the-badge&logo=vite&logoColor=yellow"/>
-  <img src="https://img.shields.io/badge/tailwind_css-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/autoprefixer-DD3735.svg?style=for-the-badge&logo=autoprefixer&logoColor=white"/>
-  <img src="https://img.shields.io/badge/postcss-DD3A0A.svg?style=for-the-badge&logo=postcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/headless_ui-000000.svg?style=for-the-badge&logo=headlessui&logoColor=white"/>
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>
 </h3>
 
 ---
